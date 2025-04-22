@@ -20,10 +20,10 @@ The CSV file contains the following information:
 
 4.Viewpoint index after executing $+Δθ$ ($index = 200$ indicates the action cannot be performed)
 
-5.Viewpoint index after executing $+Δθ$
+5.Viewpoint index after executing $-Δθ$
 
-6.Viewpoint index after executing $+Δθ$
+6.Viewpoint index after executing $-Δφ$
 
-7.Viewpoint index after executing $+Δθ$
+7.Viewpoint index after executing $+Δφ$
 
 8.Joint angles of the 6-DOF robotic arm $q = [q_{1}, q_{2}, q_{3}, q_{4}, q_{5}, q_{6}]$
