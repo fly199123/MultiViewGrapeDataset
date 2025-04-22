@@ -12,7 +12,7 @@ By setting the size of each region $R_{i}$, the policy network ensures that each
 
 The CSV file contains the following information:
 
-1.Image name. Note that $rgb_n$ corresponds to the depth image $depth_n$
+1.Image name. Note that $rgb\\_n$ corresponds to the depth image $depth\\_n$
 
 2.Camera position $p.φ$
 
