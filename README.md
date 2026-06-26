@@ -8,7 +8,7 @@ The dataset contains a total of 6 scens of data. Each scen includes RGB images, 
 As shown in Figure, during data collection, the camera viewpoints are constrained to lie on a spherical surface centered at the grape cluster centroid
 $GC$ with a radius $R$. The camera position is represented as $p = [R, θ, φ]^T$. The center point of each region $R_{i}$ on the sphere is selected as a sampling 
 point, and the robotic arm is controlled to move the camera to these points for data acquisition. The action types are represented by the action type list $AT = [at^{1}, at^{2}, ..., at^{N^{k}}]$. As illustrated in Fig. \ref{Fig_1}, 
-eight specific action types are defined, namely $(0, +\Delta\theta)$, $(+\Delta\phi, +\Delta\theta)$, $(+\Delta\phi, 0)$,$(+\Delta\phi, -\Delta\theta)$, $(0, -\Delta\theta)$, $(-\Delta\phi, -\Delta\theta)$, $(-\Delta\phi, 0)$, 
+eight specific action types are defined, namely $(0, +\Delta\theta)$, $(+\Delta\phi, +\Delta\theta)$, $(+\Delta\phi, 0)$, $(+\Delta\phi, -\Delta\theta)$, $(0, -\Delta\theta)$, $(-\Delta\phi, -\Delta\theta)$, $(-\Delta\phi, 0)$, 
 $(-\Delta\phi, +\Delta\theta)$.
 
 The CSV file contains the following information:
